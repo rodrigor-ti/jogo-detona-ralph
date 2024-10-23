@@ -18,4 +18,4 @@ Este é um projeto de um jogo simples baseado no filme **Detona Ralph**. O objet
 ## Como Jogar
 
    
-Experiemente: [Clique para Jogar](https://rsouza13.github.io/jogo-detona-ralph/).
+Experiemente: [Clique para Jogar](https://rodrigor-ti.github.io/jogo-detona-ralph/).
