@@ -1,0 +1,82 @@
+html, body, main {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-image: url('../images/wall.png');
+}
+
+.header h2 {
+    color: #fff;
+    margin: 30px auto 10px;
+    text-align: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    border-bottom: 5px solid #c9c959;
+}
+
+.panel {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    border: 1px solid #000;
+    background-color: #558ffa;
+}
+
+.enemy {
+    background-image: url('../images/ralph.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 1px 25px;
+}
+
+.menu-lives {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-time h2:nth-child(2), .menu-score h2:nth-child(2) {
+    margin-top: 10px;
+    text-align: center;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+.restart {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.restart button{
+    margin: 50px auto 0;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.menu-score {
+    text-align: center;
+}

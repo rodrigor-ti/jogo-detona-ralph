@@ -15,7 +15,4 @@ Este é um projeto de um jogo simples baseado no filme **Detona Ralph**. O objet
 - **CSS**: Estilização das janelas, do Ralph e da interface do jogo.
 - **JavaScript**: Lógica do jogo, controle de eventos, temporizadores e manipulação de áudios.
 
-## Como Jogar
-
-   
-Experiemente: [Clique para Jogar](https://rsouza13.github.io/jogo-detona-ralph/).
+## Experiemente: [Clique para Jogar](https://rodrigor-ti.github.io/jogo-detona-ralph/).
